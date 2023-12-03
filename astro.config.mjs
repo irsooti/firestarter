@@ -32,6 +32,7 @@ export default defineConfig({
         "~/components": "/src/components",
         "~/layouts": "/src/layouts",
         "~/constants": "/src/constants",
+        "~/assets": "/src/assets",
       },
     },
   },

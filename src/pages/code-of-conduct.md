@@ -1,55 +1,55 @@
 ---
-title: Codice di condotta
+title: Code of conduct
 layout: "~/layouts/BasicPageLayout.astro"
 meta:
   {
-    title: "Codice di condotta",
-    description: "GDG Pescara si impegna a fornire un'esperienza inclusiva e priva di molestie per tutti, indipendentemente dall'identità ed espressione di genere, dall'orientamento sessuale, dalle disabilità, dalla neurodiversità, dall'aspetto fisico, dalle dimensioni corporee, dall'etnia, dalla nazionalità, dalla razza, dall'età, dalla religione o da altre categorie protette. Non tolleriamo molestie nei confronti dei partecipanti agli eventi in alcuna forma. GDG Pescara prende sul serio le violazioni di questo codice di condotta e risponderà in modo appropriato.",
+    title: "Code of conduct",
+    description: "GDG Pescara is dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. We do not tolerate harassment of event participants in any form. GDG Pescara takes violations of this policy seriously and will respond appropriately.",
   }
 ---
 
-## Generale
+## General
 
-### Introduzione
+### Introduction
 
-GDG Pescara si impegna a fornire un'esperienza inclusiva e priva di molestie per tutti, indipendentemente dall'identità ed espressione di genere, dall'orientamento sessuale, dalle disabilità, dalla neurodiversità, dall'aspetto fisico, dalle dimensioni corporee, dall'etnia, dalla nazionalità, dalla razza, dall'età, dalla religione o da altre categorie protette. Non tolleriamo molestie nei confronti dei partecipanti agli eventi in alcuna forma. GDG Pescara prende sul serio le violazioni di questo codice di condotta e risponderà in modo appropriato.
+GDG Pescara is dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. We do not tolerate harassment of event participants in any form. GDG Pescara takes violations of this policy seriously and will respond appropriately.
 
-### Politica
+### Policy
 
-Tutti i partecipanti alla Devfest Pescara 2023 devono rispettare il seguente codice di condotta:
+All participants of Devfest Pescara 2023 must abide by the following policy:
 
-1. Siate eccellenti gli uni con gli altri. Vogliamo che l'evento sia un'esperienza eccellente per tutti, indipendentemente dall'identità ed espressione di genere, dall'orientamento sessuale, dalle disabilità, dalla neurodiversità, dall'aspetto fisico, dalla corporatura, dall'etnia, dalla nazionalità, dalla razza, dall'età, dalla religione o da altre categorie protette. Tratta tutti con rispetto. Partecipa riconoscendo che tutti meritano di essere qui - e ognuno di noi ha il diritto di godersi la propria esperienza _senza_ paura di molestie, discriminazioni o condiscendenza, palesi o tramite micro-aggressioni. Le battute non dovrebbero sminuire gli altri. Considera quello che stai dicendo e come ti sentiresti se fosse detto a te o su di te.
-2. Parla se vedi o senti qualcosa. Le molestie non sono tollerate e hai il potere di intervenire educatamente quando tu o altri ricevete mancanza di rispetto. La persona che ti fa sentire a disagio potrebbe non essere consapevole di ciò che sta facendo, per cui ti incoraggiamo a far notare eventuali comportamenti non desiderati. Se un partecipante adotta un comportamento molesto o scomodo, gli organizzatori dell'evento possono intraprendere qualsiasi azione ritengano opportuna, incluso avvertire o espellere l'autore del reato dall'evento senza alcun rimborso. Se subisci molestie o ti senti a disagio, noti che qualcun altro è stato molestato o hai altre preoccupazioni, contatta immediatamente un membro dello staff dell'evento.
-3. Le molestie non sono tollerate. Le molestie includono, ma non sono limitate a: linguaggio verbale che rafforza le strutture sociali di dominio legate all'identità e all'espressione di genere, all'orientamento sessuale, alle disabilità, alla neurodiversità, all'aspetto fisico, alle dimensioni corporee, all'etnia, alla nazionalità, alla razza, all'età, alla religione o ad altri aspetti protetti categoria; immagini sessuali negli spazi pubblici; intimidazione deliberata; stalking; seguente; molestare fotografie o registrazioni; prolungata interruzione di colloqui o altri eventi; linguaggio verbale offensivo; contatto fisico inappropriato; attenzioni sessuali indesiderate. I partecipanti a cui viene chiesto di interrompere qualsiasi comportamento molesto sono tenuti a conformarsi immediatamente.
-4. Esercitatevi a dirvi "Sì e" l'un l'altro. È una tecnica di improvvisazione teatrale per costruire sulle idee degli altri. Tutti traiamo beneficio quando creiamo insieme.
+1. Be excellent to each other. We want the event to be an excellent experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. Treat everyone with respect. Participate while acknowledging that everyone deserves to be here -- and each of us has the right to enjoy our experience _without_ fear of harassment, discrimination, or condescension, whether blatant or via micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it would feel if it were said to or about you.
+2. Speak up if you see or hear something. Harassment is not tolerated, and you are empowered to politely engage when you or others are disrespected. The person making you feel uncomfortable may not be aware of what they are doing, and politely bringing their behavior to their attention is encouraged. If a participant engages in harassing or uncomfortable behavior, the event organizers may take any action they deem appropriate, including warning or expelling the offender from the event with no refund. If you are being harassed or feel uncomfortable, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.
+3. Harassment is not tolerated. Harassment includes, but is not limited to: verbal language that reinforces social structures of domination related to gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category; sexual imagery in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; offensive verbal language; inappropriate physical contact; unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+4. Practice saying "Yes and" to each other. It’s a theatre improv technique to build on each other’s ideas. We all benefit when we create together.
 
-### Scopo
+### Scope
 
-Questo codice di condotta si estende a interventi, forum, workshop, codelab, social media, feste, conversazioni in corridoio, a tutti i partecipanti, partner, sponsor, volontari, personale dell'evento, ecc. GDG Pescara si riserva il diritto di rifiutare l'ammissione o allontanare qualsiasi persona dalla Devfest Pescara 2023 in qualsiasi momento a sua esclusiva discrezione. Ciò include, ma non è limitato a, il comportamento disordinato dei partecipanti o il mancato rispetto di questo codice di condotta e dei termini e condizioni qui contenuti. Se un partecipante adotta un comportamento molesto o scomodo, gli organizzatori dell'evento possono intraprendere qualsiasi azione ritengano opportuna, incluso avvertire o espellere l'autore del reato dall'evento senza alcun rimborso.
+This policy extends to talks, forums, workshops, codelabs, social media, parties, hallway conversations, all attendees, partners, sponsors, volunteers, event staff, etc. You catch our drift. GDG Pescara reserves the right to refuse admittance to, or remove any person from, Devfest Pescara 2023 at any time in its sole discretion. This includes, but is not limited to, attendees behaving in a disorderly manner or failing to comply with this policy, and the terms and conditions herein. If a participant engages in harassing or uncomfortable behavior, the event organizers may take any action they deem appropriate, including warning or expelling the offender from the event with no refund.
 
-Il nostro staff può solitamente essere identificato da badge/abbigliamento speciali. La nostra politica di tolleranza zero implica che esamineremo ogni accusa di violazione delle nostre linee guida e risponderemo in modo appropriato. Tieni presente che, pur prendendo sul serio tutte le preoccupazioni sollevate, useremo la nostra discrezione per determinare quando e come dare seguito agli incidenti segnalati e potremmo rifiutarci di intraprendere ulteriori azioni e/o indirizzare il partecipante ad altre risorse per la risoluzione.
+Our event staff can usually be identified by special badges/attire. Our zero-tolerance policy means that we will look into and review every allegation of violation of our Event Community Guidelines and Anti-Harassment Policy and respond appropriately. Please note, while we take all concerns raised seriously, we will use our discretion as to determining when and how to follow up on reported incidents, and may decline to take any further action and/or may direct the participant to other resources for resolution.
 
-Il personale dell'evento sarà lieto di aiutare i partecipanti a contattare la sicurezza della sede o le forze dell'ordine locali, fornire accompagnatori o altrimenti assistere coloro che sperimentano disagio o molestie a sentirsi al sicuro per tutta la durata dell'evento. Apprezziamo la tua presenza.
+Event staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing discomfort or harassment to feel safe for the duration of the event. We value your attendance.
 
-Anche i partner espositori, gli sponsor, gli stand dei venditori o attività simili sono soggetti a questa politica. In particolare, gli espositori non devono utilizzare immagini, attività o altro materiale a sfondo sessuale. Il personale dello stand (compresi i volontari) non deve utilizzare indumenti/uniformi/costumi sessualizzati o creare in altro modo un ambiente sessualizzato. I partecipanti, i partner espositori o gli sponsor che non rispettano questa politica verranno informati e dovranno interrompere immediatamente qualsiasi comportamento offensivo.
+Exhibiting partners, sponsors or vendor booths, or similar activities are also subject to this policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. Participants and exhibiting partners or sponsors disobeying this policy will be notified and are expected to stop any offending behavior immediately.
 
-### Perché questo codice di condotta è importante
+### Why this policy is important
 
-Le molestie durante gli eventi e nelle comunità online sono purtroppo comuni. La creazione di un codice di condotta ufficiale mira a migliorare la situazione chiarendo che le molestie nei confronti di chiunque, per qualsiasi motivo, non sono accettabili all'interno dei nostri eventi e delle nostre comunità. Questa politica può prevenire le molestie definendo chiaramente le aspettative di comportamento, mira a fornire rassicurazione e incoraggia le persone che hanno avuto esperienze negative in altri eventi a partecipare a questo.
+Harassment at events and in online communities is unfortunately common. Creating an official policy aims to improve this by making it clear that harassment of anyone for any reason is not acceptable within our events and communities. This policy may prevent harassment by clearly defining expectations for behavior, aims to provide reassurance, and encourages people who have had bad experiences at other events to participate in this one.
 
-### Licenza e attribuzione
+### License and attribution
 
-Questo codice di condotta è [concesso in licenza](https://support.google.com/developergroups/answer/3340512) sotto la [licenza Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/).
+This policy is [licensed](https://support.google.com/developergroups/answer/3340512) under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-Questo codice di condotta è basato e influenzato da diverse altre politiche della comunità, tra cui la politica anti-molestie dell'Ohio LinuxFest, Con Anti-Harassment Project, Geek Feminism Wiki (creato dall'Ada Initiative), ConfCodeofConduct.com, JSconf, Rust, Diversity in Python e Scrivi/Parla/Codifica.
+This policy is based on and influenced by several other community policies including Ohio LinuxFest Anti-Harassment policy, Con Anti-Harassment Project, Geek Feminism Wiki (created by the Ada Initiative), ConfCodeofConduct.com, JSconf, Rust, Diversity in Python, and Write/Speak/Code.
 
-### Segnala l'incidente
+### Report incident
 
-Per segnalare un incidente, cerca un membro dello staff in base al badge/abbigliamento o contatta il nostro team di risposta agli incidenti di seguito:
+To report an incident look for a staff member by badge/attire or contact our incident response team below:
 
 - Gregorio Palamà \[+39 340 23 67 996\] - [gregoriopalama@gmail.com](mailto:gregoriopalama@gmail.com)
 - Luca Di Vita \[+39 370 13 91 973\] - [lucadivita.ldv@gmail.com](mailto:lucadivita.ldv@gmail.com)
 
-#### Segnalazione anonima
+#### Anonymous report
 
-Puoi effettuare una segnalazione anonima [qui](https://forms.gle/kNnKwohuJgZeLsGi7). Non possiamo contattarti direttamente, ma effettueremo indagini approfondite e intraprenderemo tutte le azioni necessarie per prevenire il ripetersi del problema.
+You can make an anonymous report [here](https://forms.gle/kNnKwohuJgZeLsGi7). We can't follow up with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
