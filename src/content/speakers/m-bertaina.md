@@ -11,7 +11,7 @@
   social.twitter: https://twitter.com/bertainamichela
   social.blog: https://sites.google.com/view/pantarei-mb-en/blog
 ---
+
 Community lover and Latin American dancer. In 2017 she began her journey within the tech communities. Currently lead in the GDG Bari, WTM Ambassador, organizer in ICM Summit, lead of the partnership team of TEDxCuneo, tourism councilor of Cissone and in the core team of DInA Tech Hub. Diversity, accessibility, sharing and collaborating are the values ​​on which her projects are based, which she carries out with enthusiasm and great energy.
 
 Here are more info about me: https://bit.ly/pantarei-mb-en
-  

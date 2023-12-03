@@ -11,6 +11,5 @@
   social.twitter: https://twitter.com/p_insogna
   social.blog: 
 ---
-Node.js Core Member, Staff Developer Experience Engineer at NearForm, Co-founder and Principal Architect at OramaSearch, Polyglot Developer. RPG and LARP addicted and nerd on lot more. Surrounded by lovely chubby cats.
 
-  
+Node.js Core Member, Staff Developer Experience Engineer at NearForm, Co-founder and Principal Architect at OramaSearch, Polyglot Developer. RPG and LARP addicted and nerd on lot more. Surrounded by lovely chubby cats.

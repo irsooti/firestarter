@@ -12,5 +12,5 @@
     - c-bucciarelli
 
 ---
+
 La risposta è SI. Reactive Forms è un package che ti permette di costruire form complessi con comportamenti e regole di validazione complesse attraverso un interfaccia semplice.
-  

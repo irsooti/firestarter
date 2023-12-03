@@ -11,6 +11,6 @@
   social.twitter: 
   social.blog: 
 ---
+
 Sono un ingegnere informatico con oltre vent'anni di esperienza nell'Information Technology.
 Negli ultimi anni, ho guidato progetti di ricerca, soprattutto europei, focalizzati inizialmente sulla ricerca di base in ICT e successivamente sull'applicazione di tali risultati. Ho sempre avuto un forte interesse e coinvolgimento nei temi legati all'Intelligenza Artificiale e nel Data Startegyi. Attualmente, tra le altre cose, collaboro in ambito sperimentale con alcune università, tra cui l'Università di Napoli, e con aziende come Terna ed Enel, partecipando attivamente a studi e ricerche di rilievo."
-  

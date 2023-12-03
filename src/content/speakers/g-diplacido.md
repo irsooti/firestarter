@@ -11,4 +11,3 @@
   social.twitter: 
   social.blog: 
 ---
-  

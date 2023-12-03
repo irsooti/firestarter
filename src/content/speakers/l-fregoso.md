@@ -11,5 +11,5 @@
   social.twitter: https://twitter.com/scakko
   social.blog: 
 ---
+
 I've been developing since the early 2000s and my passion for networking has led me to manage work teams, projects and training courses. Geek to the core, I am constantly on the lookout for tech news.
-  

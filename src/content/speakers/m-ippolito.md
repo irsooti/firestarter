@@ -11,5 +11,5 @@
   social.twitter: https://twitter.com/satanacchio
   social.blog: https://twitter.com/satanacchio
 ---
+
 With years of experience in designing, developing and testing high scalability and distributed cloud applications, I'm committed to contributing to open source projects and helping the Node.js community grow. Currently serving as a maintainer of Node.js, Fastify and Mercurius and a member of the security work group
-  

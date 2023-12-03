@@ -11,5 +11,5 @@
   social.twitter: 
   social.blog: 
 ---
+
 Aspirante Nerd, Data Engineer per lavoro, sviluppatore per passione, pigro per natura
-  

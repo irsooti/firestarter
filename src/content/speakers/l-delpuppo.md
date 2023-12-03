@@ -11,5 +11,5 @@
   social.twitter: https://twitter.com/puppo92
   social.blog: https://www.delpuppo.net/
 ---
+
 I'm a Senior Software Developer and Microsoft MVP, I love javascript and typescript. In my free time, I love to study new technologies or something about improving myself and do trail running in my love Dolomiti.
-  

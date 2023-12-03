@@ -11,7 +11,7 @@
   social.twitter: 
   social.blog: 
 ---
+
 Sviluppatore freelance full stack (tecnologie principali: .NET, Nodejs, Angular, React)
 Formatore aziendale
 Docente post-diploma
-  

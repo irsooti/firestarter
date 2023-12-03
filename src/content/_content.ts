@@ -51,6 +51,6 @@ const eventCollection = defineCollection({
 //    This key should match your collection directory name in "src/content"
 export const collections = {
   speaker: speakerCollection,
-  event: eventCollection,
+  schedule: eventCollection,
   team: teamCollection,
 };

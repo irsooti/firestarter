@@ -1,23 +1,23 @@
 {
-    "site-title": "🔥 Firestarter",
-    "site-motto": "a rushed template",
-    "site-dates": "made in 2023",
-    "page-title": "Firestarter - {{ title }}",
-    "sign-up": "Sign up",
-    "and": "and",
-    "by": "by",
-    "keep-in-touch": {
-        "title": "Keep in touch",
-        "organized-with": "Organized with"
-    },
-    "agenda": "Schedule",
-    "speakers": "Speakers",
-    "games": "Games",
-    "select-label": "Change language",
-    "open-menu": "Open menu",
-    "close-menu": "Close menu",
-    "drawer-side": "Side menu",
-    "skip-to-content-link": "Go to main content",
-    "see-profile": "See profile of {{name}}",
-    "see-social": "See {{name}}'s {{social}} profile"
+  "site-title": "🔥 Firestarter",
+  "site-motto": "a rushed template",
+  "site-dates": "made in 2023",
+  "page-title": "Firestarter - {{ title }}",
+  "sign-up": "Sign up",
+  "and": "and",
+  "by": "by",
+  "keep-in-touch": {
+    "title": "Keep in touch",
+    "organized-with": "Organized with"
+  },
+  "agenda": "Schedule",
+  "speakers": "Speakers",
+  "games": "Games",
+  "select-label": "Change language",
+  "open-menu": "Open menu",
+  "close-menu": "Close menu",
+  "drawer-side": "Side menu",
+  "skip-to-content-link": "Go to main content",
+  "see-profile": "See profile of {{name}}",
+  "see-social": "See {{name}}'s {{social}} profile"
 }

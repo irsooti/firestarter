@@ -1,15 +1,14 @@
 ---
 import clsx from "clsx";
 import i18next, { changeLanguage, t } from "i18next";
-import Section from "../components/Section.astro";
-import SpeakerProfile from "../components/SpeakerProfile.astro";
+import Section from "../components/shared/Section.astro";
 import { getTeam } from "../data/team";
 import Layout from "../layouts/Layout.astro";
 import { randomize } from "../utils";
-import SocialIcon from "../components/SocialIcon.astro";
+import SocialIcon from "../components/shared/SocialIcon.astro";
 // @ts-expect-error - no types
 import { localizeUrl } from "astro-i18next";
-import { env } from "../costants";
+import { env } from "../constants";
 
 changeLanguage("en");
 
@@ -19,7 +18,7 @@ export const prerender = false;
 ---
 
 <Layout title="Devfest Pescara 2023 - Team">
-  <Section title="Team" id="team" additionalClass="dots" />
+  <Section title="Team" id="team" />
   <div
     class="max-w-screen-2xl m-auto lg:grid 2xl:grid-cols-3 lg:grid-cols-2 gap3"
   >

@@ -1,28 +1,26 @@
 ---
-import Section from "../../components/Section.astro";
+import Section from "../../components/shared/Section.astro";
 import Layout from "../../layouts/Layout.astro";
 import { getTeam, getTeamMemberById } from "../../data/team";
 import clsx from "clsx";
 import i18n, { t, changeLanguage } from "i18next";
-import SocialIcon from "../../components/SocialIcon.astro";
+import SocialIcon from "../../components/shared/SocialIcon.astro";
 
 changeLanguage("en");
 
 export async function getStaticPaths() {
-  const team = await getTeam();
-  return team.map((member) => {
-    return {
-      params: { id: member.id },
-      props: { id: member.id },
-    };
-  });
+    const team = await getTeam();
+    return team.map((member) => {
+        return {
+            params: { id: member.id },
+            props: { id: member.id },
+        };
+    });
 }
-
 const { id } = Astro.props;
 const member = await getTeamMemberById(id, i18n.language);
-
 if (!member) {
-  throw new Response(null, { status: 404 });
+    throw new Response(null, { status: 404 });
 }
 ---
 

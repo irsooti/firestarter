@@ -11,5 +11,5 @@
   social.twitter: https://twitter.com/ShuregDenisov
   social.blog: 
 ---
+
 Aleksandr is an experienced software developer with a rich background, in IT for more than 20 years. He worked with different stacks in backend, frontend and mobile fields, but since 2018 his main interest is Flutter. Aleksandr is a Flutter and Dart GDE and Head of Flutter Discipline in EPAM Systems. Co-Organizer of Flutter Berlin Meetup community.
-  

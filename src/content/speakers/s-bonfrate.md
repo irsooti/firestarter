@@ -11,5 +11,5 @@
   social.twitter: https://twitter.com/bonfry_dev
   social.blog: https://bonfry.com
 ---
+
 Sono uno sviluppatore Flutter e Mixed Reality, uno studente del Politecnico di Bari e il responsabile del GDG Bari. Amo tenere conferenze per ampliare le mie conoscenze e mi piace correre e andare in bicicletta nel tempo libero. Mi dedico alla condivisione delle sue competenze, all'organizzazione di eventi e all'apprendimento costante per avere un impatto positivo sulla comunità degli sviluppatori.
-  

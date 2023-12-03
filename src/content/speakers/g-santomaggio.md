@@ -11,7 +11,7 @@
   social.twitter: https://twitter.com/GSantomaggio
   social.blog: https://twitter.com/GSantomaggio
 ---
-Developer, speaker, 99.9% open-source code.    
+
+Developer, speaker, 99.9% open-source code.  
 RabbitMQ team.
 Codemotion Ambassador.
-  

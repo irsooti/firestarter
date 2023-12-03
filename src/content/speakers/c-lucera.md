@@ -11,7 +11,7 @@
   social.twitter: https://twitter.com/hat_droid
   social.blog: 
 ---
+
 Known as HatDroid, is a Technology enthusiast, former Android, and now Flutter developer, always in search of new technologies and strategies to improve.
 Flutter Google Developer Expert and Full-time Flutter Developer @Pvotal technologies and admin for Flutter Italia Developers.
 Always ready to share his experiences and working hard to help the Developer communities grow.
-  

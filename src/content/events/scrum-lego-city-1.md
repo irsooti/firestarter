@@ -22,7 +22,7 @@
     - g-diplacido
 
 ---
+
 Imparare facendo e fallendo. Non sottovalutare nessuna Storia… potrebbe costarti molto! Scrum Lego City ti porta dritto al punto: sperimenterai cosa significa essere agile.
 
 Registrazione richiesta su [EventBrite](https://www.eventbrite.it/e/biglietti-scrum-lego-city-devfest-pescara-2023-749055283517?aff=oddtdtcreator)
-  

@@ -16,5 +16,5 @@
     - f-sciuti
 
 ---
+
 Nel processo di hiring, developer e recruiter meritano di vivere un'esperienza appagante basata sulla trasparenza, velocità e rispetto reciproco…spesso però accade l’esatto contrario. In questo panel analizzeremo delle testimonianze particolarmente spaventose da entrambe le parti, per fare un passo avanti a beneficio di tutti.
-  

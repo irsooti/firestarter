@@ -38,6 +38,7 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
 ## Tools used
+
 - [Tailwind CSS (Utility-First CSS Framework)](https://tailwindcss.com/)
 - [DaisyUI (Tailwind CSS Components)](https://daisyui.com/)
 - [astro-i18n](https://github.com/yassinedoghri/astro-i18next)
@@ -45,4 +46,3 @@ All commands are run from the root of the project, from a terminal:
 ## Mockup
 
 [Figma](https://www.figma.com/file/vGNg1oFEozLImMUl8vidyo/Landing-DevFest-2023?type=design&node-id=0%3A1&mode=design&t=i1jkPzTUHDnIPDi6-1)
-

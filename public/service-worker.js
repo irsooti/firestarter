@@ -12,8 +12,8 @@ self.addEventListener("activate", function (event) {
         cacheNames.map(function (cacheName) {
           console.log("Service worker clearing cache");
           return caches.delete(cacheName);
-        })
+        }),
       );
-    })
+    }),
   );
 });

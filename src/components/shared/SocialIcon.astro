@@ -1,9 +1,9 @@
 ---
 import { Image } from "astro:assets";
-import facebookImageSrc from "../assets/social/facebook.svg";
-import instagramImageSrc from "../assets/social/instagram.svg";
-import linkedinImageSrc from "../assets/social/linkedin.svg";
-import twitterImageSrc from "../assets/social/twitter.svg";
+import facebookImageSrc from "../../assets/social/facebook.svg";
+import instagramImageSrc from "../../assets/social/instagram.svg";
+import linkedinImageSrc from "../../assets/social/linkedin.svg";
+import twitterImageSrc from "../../assets/social/twitter.svg";
 
 const social = {
   facebook: {
@@ -36,6 +36,8 @@ const socialFound = social[Astro.props.name].imageSrc;
     <Image
       class="max-h-[40px] h-[40px] max-w-[40px] w-[40px] m-auto"
       src={social[Astro.props.name].imageSrc}
+      width="40"
+      height="40"
       alt=""
     />
   ) : null

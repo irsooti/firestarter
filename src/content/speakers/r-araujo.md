@@ -11,5 +11,6 @@
   social.twitter: https://twitter.com/reNotANumber
   social.blog: https://renan.gg
 ---
+
 Loves to use programming to create user interfaces. Worked previously with the web and have been in love with Flutter since beta. Created some open-source packages and helped to maintain a couple. Open-source engineer at VGV.  
-  
+

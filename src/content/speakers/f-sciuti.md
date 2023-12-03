@@ -11,6 +11,7 @@
   social.twitter: https://twitter.com/FrancescoSciuti
   social.blog: https://devmy.it/blog
 ---
+
 Francesco (Google Developer Expert, Microsoft MVP, Google Certified Developer & AWS UG Lead), is a programmer with several years of experience in enterprise programming , high skilled in web development (frontend and backend) and in team project management.
 
 I have a keen interest in new technologies and in IT development and I’m always upgrading and evaluating my knowledge and skills to stay at the cutting-edge of web development.
@@ -22,4 +23,3 @@ Focused on continual professional and technological improvement: books, courses,
 I want to put myself in challenges both in the personal and professional side and this is way I’m involved ,as an active contributor, in many Italian communities (Angular ,React, Javascript ,GDG, PUG, etc…) and I contribute as a counselor to CoderDojo Foundation (Computational youth learning).
 
 I’ve worked for a long time as a employee and then as a freelancer, but nowadays I has my own company: Acadevmy – Software Factory, founded with my friends Andrea and Salvo.
-  

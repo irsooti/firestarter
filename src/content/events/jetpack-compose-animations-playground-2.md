@@ -12,5 +12,5 @@
     - d-favaro
 
 ---
+
 Animations make our apps nicer! Let's see how easy it is to use them. In this talk, you will have an overview of how to orchestrate multiple animation states, different ways of triggering them, and measure your app performance.
-  

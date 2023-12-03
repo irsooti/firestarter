@@ -45,8 +45,7 @@ async function createTeamMember(person: TeamCollectionEntry) {
       instagram: person?.data["social.instagram"],
       blog: person?.data["social.blog"],
     },
-    imageUrl:
-      person?.data.imageUrl,
+    imageUrl: person?.data.imageUrl,
   };
 
   return teamMember;

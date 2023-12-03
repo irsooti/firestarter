@@ -1,10 +1,10 @@
 ---
   day: 1
-  time: "16:30"
+  time: "8:00"
   tags:
 
-  name: "Coffee break"
-  duration: 20 min
+  name: "Check-in and breakfast"
+  duration: 120 min
   type: intermission
   room: 
   language: 
@@ -12,5 +12,3 @@
 
 
 ---
-
-  

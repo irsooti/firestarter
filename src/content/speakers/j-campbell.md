@@ -11,6 +11,6 @@
   social.twitter: https://twitter.com/sylvanasbeta
   social.blog: https://www.linkedin.com/in/campbelljai
 ---
-Hi,  my name is Jai,   I am a software engineer and active member of various technical communities varying from Women Techmakers,  open source enablement and visibility, GDG and GDE.
-I work mainly on GCP application and infrastructure modernisation projects for all types of organisations.  I have been working in financial services for the last 3 years as an SRE/Architect enabling clients to move existing and deploy new workloads into the Cloud.
-  
+
+Hi, my name is Jai, I am a software engineer and active member of various technical communities varying from Women Techmakers, open source enablement and visibility, GDG and GDE.
+I work mainly on GCP application and infrastructure modernisation projects for all types of organisations. I have been working in financial services for the last 3 years as an SRE/Architect enabling clients to move existing and deploy new workloads into the Cloud.

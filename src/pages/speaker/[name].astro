@@ -1,6 +1,5 @@
 ---
 import { changeLanguage } from "i18next";
-import SpeakersOverview from "../../components/SpeakersOverview.astro";
 import { getSpeakersWithoutBody } from "../../data/speaker";
 import Layout from "../../layouts/Layout.astro";
 
@@ -22,6 +21,4 @@ if (!name) {
 }
 ---
 
-<Layout title={"Devfest Pescara 2023 - " + speaker.name}>
-  <SpeakersOverview speakerId={name} />
-</Layout>
+<Layout title={"Devfest Pescara 2023 - " + speaker.name}>tbd</Layout>

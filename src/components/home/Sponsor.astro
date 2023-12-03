@@ -1,23 +1,14 @@
 ---
-import type { ImageMetadata } from "astro";
 interface Props {
-  imageSrc: ImageMetadata;
-  imageAlt: string;
   level: string;
   link: string;
 }
-const { imageSrc, imageAlt, level, link } = Astro.props;
+const { level, link } = Astro.props;
 ---
 
 <div class="text-center px-2 mx-9">
   <a href={link} target="_blank">
-    <img
-      class="max-h-[150px] h-[150px] max-w-[230px] w-[230px] object-contain object-bottom"
-      src={imageSrc.src}
-      width={imageSrc.width}
-      height={imageSrc.height}
-      alt={imageAlt}
-    />
+    <slot />
   </a>
   <div class="sponsor-level flex lg:flex-row items-center mt-5">
     <h3

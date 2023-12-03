@@ -11,5 +11,5 @@
   social.twitter: 
   social.blog: https://it.linkedin.com/in/luca-di-vita-563b0a183
 ---
+
 Laureato in Ingegneria Informatica all'Università degli Studi de L'Aquila e appassionato del mondo della ricerca, in particolar modo inerente il Machine Learning e Computazione Evolutiva, lavoro nel mondo IT come Machine Learning Engineer. La mia passione per lo studio e l'accademia mi ha portato nel fantastico mondo dei Dev Talks dove spero di appassionare tanto quanto lo sono io.
-  

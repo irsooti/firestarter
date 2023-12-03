@@ -11,9 +11,9 @@
   social.twitter: https://twitter.com/michelmurabito
   social.blog: https://github.com/akelity
 ---
+
 Developer Advocate by day,
 Developer in the soul,
 Superhero wannabe by night.
 
 Born in 1986 in Turin and raised in Sicily, he began writing software for fun at the age of 12. Holding the position of Developer Advocate at Mia-Platform, he started his career at 18 as a Software Developer. He's an avid technology enthusiast who passionately shares insights on creating better products. Between 2021 and 2022, he engaged in 60 speaking engagements across Europe, and he runs the YouTube channel DevelopersLife, boasting 2600 subscribers and a thriving community of over 600 members.
-  

@@ -1,0 +1,46 @@
+---
+import { Image } from "astro:assets";
+import { t } from "i18next";
+import Section from "../shared/Section.astro";
+import Sponsor from "./Sponsor.astro";
+
+interface SponsorValue {
+  level: string;
+  name: string;
+  imageUrl: string;
+  link: string;
+}
+
+const sponsors: SponsorValue[][] = [
+  [
+    {
+      level: "Main sponsor",
+      name: "Google",
+      imageUrl: "https://via.placeholder.com/200x200",
+      link: "https://gdg.community.dev/",
+    },
+  ],
+];
+---
+
+<Section title={t("landing:sponsors.title") || "Sponsors"} id="sponsors">
+  <div class="m-auto">
+    {
+      sponsors.map((sponsorLevel) => (
+        <div class="flex flex-wrap my-8 justify-center m-auto items-center">
+          {sponsorLevel.map((sponsor) => (
+            <Sponsor level={sponsor.level} link={sponsor.link}>
+              <Image
+                class="max-h-[150px] h-[150px] max-w-[230px] w-[230px] object-contain object-bottom"
+                src={sponsor.imageUrl}
+                alt={sponsor.name}
+                width={230}
+                height={150}
+              />
+            </Sponsor>
+          ))}
+        </div>
+      ))
+    }
+  </div>
+</Section>

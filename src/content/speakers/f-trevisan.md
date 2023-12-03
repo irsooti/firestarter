@@ -11,7 +11,7 @@
   social.twitter: https://twitter.com/federikovi
   social.blog: 
 ---
-After graduating in Data Science and Business Informatics at the University of Pisa, Federica contributed to the Google Summer of Code project for the Open Bioinformatics Foundation. 
+
+After graduating in Data Science and Business Informatics at the University of Pisa, Federica contributed to the Google Summer of Code project for the Open Bioinformatics Foundation.
 She now works as Data Analyst for Healthy Reply, analyzing 50+ different data streams regarding the entire health data sector of the Veneto Region.
 You can find her biking or collecting trash in the Venetian lagoon with a stand-up paddle.
-  

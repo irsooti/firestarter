@@ -11,5 +11,5 @@
   social.twitter: https://twitter.com/HaJongler
   social.blog: https://finehq.substack.com/
 ---
+
 Jonathan is a digital comedian - touching on everything that involves humor, technology and creativity. He is the cofounder of Fine, a company that helps developers build better software, faster; and the creator of "Dark{mode}": a docu-comedy web series that covers developer experience topics, trends, and best practices.
-  

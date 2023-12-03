@@ -12,6 +12,20 @@ export default defineConfig({
   adapter: nodejs({
     mode: "standalone",
   }),
+  image: {
+    domains: ["via.placeholder.com"],
+  },
+  experimental: {
+    i18n: {
+      defaultLocale: "en",
+      locales: ["en", "it", "fr"],
+      fallback: {
+        it: "en",
+        fr: "en",
+      },
+      routingStrategy: "prefix-other-locales",
+    },
+  },
   vite: {
     resolve: {
       alias: {
@@ -20,5 +34,5 @@ export default defineConfig({
         "~/constants": "/src/constants",
       },
     },
-  }
+  },
 });
