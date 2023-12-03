@@ -1,6 +1,6 @@
 ---
 import { t } from "i18next";
-import Map from "./Map.astro";
+import { Map } from "./Map.tsx";
 import Section from "../shared/Section.astro";
 import SectionTitle from "../shared/SectionTitle.astro";
 
@@ -13,6 +13,7 @@ const mapUrl =
   className="min-h-screen grid grid-cols-1 xl:grid-cols-2 justify-center items-center"
 >
   <Map
+    client:visible
     markerIcon="images/marker.png"
     markerTitle="Marker"
     lat={42.45195}
