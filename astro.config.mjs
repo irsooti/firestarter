@@ -15,15 +15,13 @@ export default defineConfig({
   image: {
     domains: ["via.placeholder.com"],
   },
-  experimental: {
-    i18n: {
-      defaultLocale: "en",
-      locales: ["en", "it"],
-      fallback: {
-        it: "en",
-      },
-      routingStrategy: "prefix-other-locales",
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "it"],
+    fallback: {
+      it: "en",
     },
+    routingStrategy: "prefix-other-locales",
   },
   vite: {
     resolve: {
