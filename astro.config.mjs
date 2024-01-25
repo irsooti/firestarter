@@ -18,10 +18,9 @@ export default defineConfig({
   experimental: {
     i18n: {
       defaultLocale: "en",
-      locales: ["en", "it", "fr"],
+      locales: ["en", "it"],
       fallback: {
         it: "en",
-        fr: "en",
       },
       routingStrategy: "prefix-other-locales",
     },
@@ -29,10 +28,7 @@ export default defineConfig({
   vite: {
     resolve: {
       alias: {
-        "~/components": "/src/components",
-        "~/layouts": "/src/layouts",
-        "~/constants": "/src/constants",
-        "~/assets": "/src/assets",
+        "~/": "/src/",
       },
     },
   },

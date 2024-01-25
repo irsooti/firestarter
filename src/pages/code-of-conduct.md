@@ -1,6 +1,5 @@
 ---
 title: Code of conduct
-layout: "~/layouts/BasicPageLayout.astro"
 meta:
   {
     title: "Code of conduct",

@@ -1,8 +1,8 @@
 {
-  "site-title": "🔥 Firestarter",
+  "site-title": "Hedwig",
   "site-motto": "a rushed template",
   "site-dates": "made in 2023",
-  "page-title": "Firestarter - {{ title }}",
+  "page-title": "Hedwig - {{ title }}",
   "sign-up": "Sign up",
   "and": "and",
   "by": "by",
